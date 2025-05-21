@@ -38,4 +38,4 @@
 </div>
 
 
-⭐ Obrigado por visitar! Deixe uma ⭐ nos repositórios se gostar dos projetos :)
+<center>⭐ Obrigado por visitar! Deixe uma ⭐ nos repositórios se gostar dos projetos :)</center>
