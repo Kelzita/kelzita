@@ -43,9 +43,5 @@
 ---
 
 <div align="center">
-  
   *"Cada linha de código é um passo em direção a uma nova descoberta!"*
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Kelzita&color=tokyonight)
-  
 </div>
