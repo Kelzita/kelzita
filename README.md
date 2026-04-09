@@ -42,6 +42,5 @@
 
 ---
 
-<div align="center">
-  *"Cada linha de código é um passo em direção a uma nova descoberta!"*
+<div align="center" style="font-style:italic;">"Cada linha de código é um passo em direção a uma nova descoberta!"
 </div>
