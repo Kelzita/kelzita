@@ -13,7 +13,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Kelzita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Kelzita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelzita&layout=compact&theme=tokyonight&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelzita&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -30,3 +35,18 @@
 </div>
 
 ---
+
+## 📫 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kelzita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+
+---
+
+<div align="center">
+  
+  *"Cada linha de código é um passo em direção a uma nova descoberta!"* ✨
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Kelzita&color=tokyonight)
+  
+</div>
